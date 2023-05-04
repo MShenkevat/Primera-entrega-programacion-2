@@ -1,0 +1,12 @@
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\bin\Debug\net7.0\LibClases.deps.json
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\bin\Debug\net7.0\LibClases.dll
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\bin\Debug\net7.0\LibClases.pdb
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.csproj.AssemblyReference.cache
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.AssemblyInfoInputs.cache
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.AssemblyInfo.cs
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.csproj.CoreCompileInputs.cache
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.dll
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\refint\LibClases.dll
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\LibClases.pdb
+C:\Users\mshen\Desktop\PROGRAMACION 2\Obligatorio_parte_1\Obligatorio_parte_1\LibClases\obj\Debug\net7.0\ref\LibClases.dll
